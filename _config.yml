@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: J SUBHI # the main title
 
-tagline: I am J Subhi, currently pursuing a B.Tech in Information Technology. I have a strong interest in cyber forensics and ethical hacking, and I'm passionate about exploring ways to secure digital environments and investigate cybercrimes. My goal is to build a career in cybersecurity, specializing in ethical hacking and digital forensics, while continuously enhancing my skills through hands-on learning and certifications. # it will display as the subtitle
+tagline: I’m J Subhi, a B.Tech IT student with a keen interest in cyber forensics and ethical hacking. I’m passionate about securing digital environments and investigating cybercrimes.
 
 description: >- # used by seo meta and the atom feed
   9thday, Ethical Hacking, Cybersecurity, Tutorials
@@ -38,8 +38,8 @@ social:
   email: jsubhi@protonmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    # https://twitter.com/username # change to your Twitter homepage
+    - https://github.com/s3bhi # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
