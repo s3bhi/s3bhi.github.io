@@ -11,3 +11,6 @@ I am creating this post to check how the post looks like on the website
 I hope i wont be dissapointed
 
 See yaaa!
+
+![img-description](assets/postimages/testing.jpg)
+_Testing Image Caption_
